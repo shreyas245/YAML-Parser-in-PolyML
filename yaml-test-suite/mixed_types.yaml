@@ -1,0 +1,10 @@
+mixed_sequence:
+  - string: "Hello"
+  - integer: 123
+  - boolean: true
+  - null_value: null
+mixed_mapping:
+  key1: "value1"
+  key2: 42
+  key3: true
+  key4: null

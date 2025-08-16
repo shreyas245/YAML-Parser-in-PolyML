@@ -1,0 +1,6 @@
+valid_key: valid_value
+invalid_key: "missing closing quote
+missing_colon_key value
+nested_error:
+  - valid_item
+  - invalid_item: "unterminated string

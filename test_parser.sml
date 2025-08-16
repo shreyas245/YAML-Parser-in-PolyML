@@ -1,5 +1,12 @@
 (* test_parser.sml *)
+use "util.sml";
+use "token.sig";
+use "token.sml";
+use "parser.sig";
+use "parser.sml";
+use "yaml_parser.sig";
 use "yaml_parser.sml";
+
 structure TestParser =
 struct
   open YamlParser

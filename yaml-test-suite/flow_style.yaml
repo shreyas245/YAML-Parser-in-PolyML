@@ -1,0 +1,5 @@
+fruits: [apple, banana, orange]
+person: {name: "Jane Doe", age: 25, married: false}
+nested_flow:
+  - {key1: value1, key2: value2}
+  - [1, 2, 3]

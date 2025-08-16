@@ -1,0 +1,14 @@
+person:
+  name: John Doe
+  age: 30
+  married: true
+address:
+  street: "123 Elm Street"
+  city: "Springfield"
+  zip: 12345
+nested_mapping:
+  key1:
+    subkey1: value1
+    subkey2: value2
+  key2:
+    subkey3: value3

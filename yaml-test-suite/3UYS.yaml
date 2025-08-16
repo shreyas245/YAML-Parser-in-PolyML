@@ -1,0 +1,2 @@
+  json: { "escaped slash": "a/b" }
+  dump: escaped slash: "a/b"
